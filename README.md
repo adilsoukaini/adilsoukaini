@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adilsoukaini
-- 👀 I’m interested in ensa
-- 🌱 I’m currently learning cs
+- 👀 I’m interested in tech and programing
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adilelwerdi81@gmail.com
+- 📫 How to reach me adilelwerdi82@gmail.com
 
 <!---
 adilsoukaini/adilsoukaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
