@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @adilsoukaini
 - 👀 I’m interested in tech and programing
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adilelwerdi82@gmail.com
+- 🌱 I’m currently learning to become a full stack developer
+- 💞️ I’m looking to collaborate on anything that has to do with react js libary nad web development😉
+- 📫 How to reach me adil.soukaini@uit.ac.ma
+
 
 <!---
 adilsoukaini/adilsoukaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
