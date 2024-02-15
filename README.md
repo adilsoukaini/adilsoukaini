@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adilsoukaini
 - 👀 I’m interested in tech and programing
-- 🌱 I’m currently learning to become a full stack developer
-- 💞️ I’m looking to collaborate on anything that has to do with react js libary or MERN stack and web development😉
+- 🌱 I’m currently learning to become a backend/devops engineer
+- 💞️ I’m looking to collaborate on anything that has to do with devops or react js libary or MERN stack and web development😉
 - 📫 How to reach me adil.soukaini@uit.ac.ma
 
 
